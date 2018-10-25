@@ -10,6 +10,7 @@ gem 'rails', '~> 5.2.1'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'devise', '~> 4.4', '>= 4.4.3'
 
 
 gem 'sqlite3'
