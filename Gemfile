@@ -13,6 +13,7 @@ gem 'simple_form', '~> 4.0', '>= 4.0.1'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'jquery-rails'
 gem 'paperclip', '~> 6.0'
+gem 'masonry-rails', '~> 0.2.4'
 
 gem 'sqlite3'
 # Use Puma as the app server
